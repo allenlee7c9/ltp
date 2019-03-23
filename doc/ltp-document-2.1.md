@@ -512,6 +512,7 @@ B-Nr   E-Nr
 # 依存句法标注体系及含义
 
 关系 | 符号 | 关系 | 符号
+---|---|---|---
 定中关系 | ATT(attribute) | “的”字结构 | DE
 数量关系 | QUN(quantity) | “地”字结构 | DI
 并列关系 | COO(coordinate) | “得”字结构 | DEI
